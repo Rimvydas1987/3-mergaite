@@ -22,4 +22,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Rimvydas](https://github.com/Rimvydas1987)
