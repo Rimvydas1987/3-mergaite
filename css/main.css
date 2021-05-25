@@ -9,6 +9,7 @@ header {
     margin-left: calc(50% - 400px);
     margin-top: 20px;
 }
+
 header > img {
     float: left;
     height: 50px;
@@ -47,8 +48,8 @@ main {
 div {
     width: 40%;
     float: left;
-    margin-left: 2,5%;
-    margin-right: 2,5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
     margin-top: 70px;
     color: #9d9d9d;
 }
@@ -68,14 +69,14 @@ p {
     width: 100%;
     margin: 0;
     font-size: 28px;
-    line-height: 1,24;
+    line-height: 1.24;
     background-color: red;
 }
 
 main > img {
     width: 50%;
     float: left;
-    margin-left: 2,5%;
-    margin-right: 2,5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
     background-color: chartreuse;
 }
