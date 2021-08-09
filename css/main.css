@@ -13,7 +13,6 @@ header {
 header > img {
     float: left;
     height: 50px;
-    background-color: cyan;
 }
 
 nav {
@@ -42,7 +41,6 @@ main {
     width: 800px;
     margin-left: calc(50% - 400px);
     margin-top: 20px;
-    background-color: yellow;
 }
 
 div {
@@ -58,7 +56,6 @@ h1 {
     display:inline-block;
     width: 100%;
     margin: 0;
-    background-color: green;
     font-size: 100px;
     line-height: 80px;
        
@@ -70,7 +67,6 @@ p {
     margin: 0;
     font-size: 28px;
     line-height: 1.24;
-    background-color: red;
 }
 
 main > img {
@@ -78,5 +74,4 @@ main > img {
     float: left;
     margin-left: 2.5%;
     margin-right: 2.5%;
-    background-color: chartreuse;
 }
